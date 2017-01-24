@@ -1,0 +1,6 @@
+[package]
+name = "missing_line_ending_checker"
+version = "0.1.0"
+authors = ["alkalita"]
+
+[dependencies]
